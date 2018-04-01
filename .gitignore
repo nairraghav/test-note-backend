@@ -1,0 +1,4 @@
+# DB Config
+node_modules/
+config/db.js
+
