@@ -1,0 +1,29 @@
+{
+  "name": "test-note-backend",
+  "version": "1.0.0",
+  "description": "Backend for sample notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "back",
+    "end",
+    "back-end",
+    "express",
+    "mongo",
+    "db",
+    "shitudu"
+  ],
+  "author": "Ron Nair",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.33"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
